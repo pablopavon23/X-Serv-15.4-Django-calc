@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+	'myfirstapp',          #debo "dar de alta" mi app para que funcione
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
